@@ -56,7 +56,7 @@ Ready to dive into the world of OpenGL? Follow the steps below to get started:
 OpenGL remains a powerful tool for graphics programming, especially for cross-platform applications. Whether you're a beginner looking to learn the basics or an experienced developer exploring advanced techniques, OpenGL offers a robust set of features to bring your graphics to life.
 
 ## License
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+GNU AFFERO GENERAL PUBLIC LICENSE | Version 3, 19 November 2007 - see the `LICENSE` file for details.
 
 ---
 
